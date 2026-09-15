@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Ryan Kerry
 
-<!--
-**Ryank90/Ryank90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Director at [Runware](https://runware.ai), building AI infrastructure - inference and GPU platforms at scale.
 
-Here are some ideas to get you started:
+Previously engineering leadership at Unity and EFG.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus**
+- Inference / GPU platforms
+- Platform engineering for AI workloads
+- Agent and sandbox-style compute
+
+**Writing** → [evolvingcomplexity.com](https://www.evolvingcomplexity.com)  
+**LinkedIn** → [linkedin.com/in/ryank90](https://www.linkedin.com/in/ryank90)
