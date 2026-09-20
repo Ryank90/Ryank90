@@ -1,6 +1,6 @@
 ### Hi, I'm Ryan Kerry
 
-Engineering Director at [Runware](https://runware.ai), building AI infrastructure - inference and GPU platforms at scale.
+Engineering Director at [Runware](https://runware.ai), building AI infrastructure, high-performance inference and GPU platforms at scale.
 
 Previously engineering leadership at Unity and EFG.
 
