@@ -4,10 +4,5 @@ Engineering Director at [Runware](https://runware.ai), building AI infrastructur
 
 Previously engineering leadership at Unity and EFG.
 
-**Focus**
-- Inference / GPU platforms
-- Platform engineering for AI workloads
-- Agent and sandbox-style compute
-
 **Writing** → [evolvingcomplexity.com](https://www.evolvingcomplexity.com)  
 **LinkedIn** → [linkedin.com/in/ryank90](https://www.linkedin.com/in/ryank90)
